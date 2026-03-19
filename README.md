@@ -100,27 +100,17 @@ Documentation can be read in two formats\_ _markdown_ & _blog post_.
 You can start using this project locally by running the following command in your desired directory:
 
 ```bash
-# pnpm
-pnpm create astro@latest --template satnaing/astro-paper
-
-# npm
 npm create astro@latest -- --template satnaing/astro-paper
-
-# yarn
-yarn create astro --template satnaing/astro-paper
-
-# bun
-bun create astro@latest -- --template satnaing/astro-paper
 ```
 
 Then start the project by running the following commands:
 
 ```bash
 # install dependencies if you haven't done so in the previous step.
-pnpm install
+npm install
 
 # start running the project
-pnpm run dev
+npm run dev
 ```
 
 ## Google Site Verification (optional)
@@ -140,14 +130,14 @@ All commands are run from the root of the project, from a terminal:
 
 | Command                 | Action                                                                                                                           |
 | :---------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
-| `pnpm install`          | Installs dependencies                                                                                                            |
-| `pnpm run dev`          | Starts local dev server at `localhost:4321`                                                                                      |
-| `pnpm run build`        | Build your production site to `./dist/`                                                                                          |
-| `pnpm run preview`      | Preview your build locally, before deploying                                                                                     |
-| `pnpm run format:check` | Check code format with Prettier                                                                                                  |
-| `pnpm run format`       | Format codes with Prettier                                                                                                       |
-| `pnpm run sync`         | Generates TypeScript types for all Astro modules. [Learn more](https://docs.astro.build/en/reference/cli-reference/#astro-sync). |
-| `pnpm run lint`         | Lint with ESLint                                                                                                                 |
+| `npm install`           | Installs dependencies                                                                                                            |
+| `npm run dev`           | Starts local dev server at `localhost:4321`                                                                                     |
+| `npm run build`         | Build your production site to `./dist/`                                                                                         |
+| `npm run preview`       | Preview your build locally, before deploying                                                                                    |
+| `npm run format:check`  | Check code format with Prettier                                                                                                 |
+| `npm run format`        | Format codes with Prettier                                                                                                      |
+| `npm run sync`          | Generates TypeScript types for all Astro modules. [Learn more](https://docs.astro.build/en/reference/cli-reference/#astro-sync). |
+| `npm run lint`          | Lint with ESLint                                                                                                                |
 
 > **_Warning!_** Windows PowerShell users may need to install the [concurrently package](https://www.npmjs.com/package/concurrently) if they want to [run diagnostics](https://docs.astro.build/en/reference/cli-reference/#astro-check) during development (`astro check --watch & astro dev`). For more info, see [this issue](https://github.com/satnaing/astro-paper/issues/113).
 
