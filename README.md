@@ -11,6 +11,10 @@ AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro blog them
 
 Read [the blog posts](https://astro-paper.pages.dev/posts/) or check [the README Documentation Section](#-documentation) for more info.
 
+## 🆕 New Features in Astro PaperMod
+  - [x] easy to add new blog posts using "new" command, like what hexo blog does.
+  - [ ] automatically generate modDatetime after editing a post.
+
 ## 🔥 Features
 
 - [x] type-safe markdown

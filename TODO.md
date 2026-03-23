@@ -1,1 +1,2 @@
-- [ ] npm run new指令，根据模板生成新文章
+- [x] npm run new指令，根据模板生成新文章
+- [ ] modDatetime
