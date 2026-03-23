@@ -70,6 +70,6 @@ source ~/.bashrc #请根据自己的系统做出相应更改
 
 ## Reference
 
-[^1]: [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng)
+- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng)
 
-[^2]: [linux下的全局代理工具proxychain](https://monkeywie.cn/2020/07/06/linux-global-proxy-tool-proxychain/)
+- [linux下的全局代理工具proxychain](https://monkeywie.cn/2020/07/06/linux-global-proxy-tool-proxychain/)

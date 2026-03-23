@@ -6,7 +6,7 @@ tags:
   - CS61A
 ---
 
-## Overview[^1]
+## Overview
 
 The `CS 61` series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
 
@@ -68,4 +68,4 @@ Mastery of a particular programming language is a very useful side effect of `CS
 
 ## Reference
 
-[^1]: [Syllabus & Course Policies | CS 61A Fall 2022 (berkeley.edu)](https://inst.eecs.berkeley.edu/~cs61a/fa22/articles/about/)
+- [Syllabus & Course Policies | CS 61A Fall 2022 (berkeley.edu)](https://inst.eecs.berkeley.edu/~cs61a/fa22/articles/about/)

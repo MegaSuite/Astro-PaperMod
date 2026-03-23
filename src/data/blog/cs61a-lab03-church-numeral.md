@@ -245,8 +245,8 @@ def pow_church(m, n):
 
 ## Reference
 
-[^1]: [日拱一卒，伯克利CS61A，作业3](https://zhuanlan.zhihu.com/p/505962536)
+- [日拱一卒，伯克利CS61A，作业3](https://zhuanlan.zhihu.com/p/505962536)
 
-[^2]: [CS61A Homework: Church Numerals](https://www.cnblogs.com/Shimarin/p/13823520.html)
+- [CS61A Homework: Church Numerals](https://www.cnblogs.com/Shimarin/p/13823520.html)
 
-[^3]: [记录一道颇有意思的CS61A python作业题Church numerals](https://zhuanlan.zhihu.com/p/267917164)
+- [记录一道颇有意思的CS61A python作业题Church numerals](https://zhuanlan.zhihu.com/p/267917164)

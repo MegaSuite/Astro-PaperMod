@@ -176,10 +176,10 @@ print(eratosthenes(100))
 
 ## Reference
 
-[^1]: [埃拉托斯特尼筛法](https://zh.wikipedia.org/wiki/埃拉托斯特尼筛法)
+- [埃拉托斯特尼筛法](https://zh.wikipedia.org/wiki/埃拉托斯特尼筛法)
 
-[^2]: [埃拉托斯特尼筛法详解及实现](https://blog.csdn.net/o83290102o5/article/details/79491834)
+- [埃拉托斯特尼筛法详解及实现](https://blog.csdn.net/o83290102o5/article/details/79491834)
 
-[^3]: [欧拉筛法](https://blog.csdn.net/qq_40298768/article/details/108631809)
+- [欧拉筛法](https://blog.csdn.net/qq_40298768/article/details/108631809)
 
-[^4]: [厄拉托塞师（Eratosthenes）筛法](https://zhuanlan.zhihu.com/p/151432852)
+- [厄拉托塞师（Eratosthenes）筛法](https://zhuanlan.zhihu.com/p/151432852)

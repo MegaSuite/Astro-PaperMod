@@ -73,7 +73,7 @@ tags:
 
 生成器在产生只需要生成一次的输出序列时有很大的优势。迭代（比如`for`)第一次调用从函数创建的生成器对象时，它将从开头运行函数中的代码，直到到达`yield`，然后返回循环的第一个值。之后，每个后续调用都将运行在函数中编写的循环的另一次迭代，并返回下一个值，生成器函数体内的代码以`yield`语句所在处分界，某次循环开始时，函数会从上一次`yield`停止处开始运行（即运行`yield`的下一行），直到生成器被判定为空（`StopIteration`)。
 
-## Official Definition[^1]
+## Official Definition
 
 **_6.2.9. Yield expressions_**
 
@@ -132,8 +132,6 @@ async def agen(): # defines an asynchronous generator function
 
 ## Reference
 
-[^1]: [6. Expressions — Python 3.12.0 documentation](https://docs.python.org/3/reference/expressions.html#grammar-token-python-grammar-yield_expression)
-
-[^2]: [iterator - What does the "yield" keyword do in Python? - Stack Overflow](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python?page=1&tab=scoredesc#tab-top)
-
-[^3]: [python生成器-CSDN博客](https://blog.csdn.net/weixin_33751566/article/details/92288708)
+- [6. Expressions — Python 3.12.0 documentation](https://docs.python.org/3/reference/expressions.html#grammar-token-python-grammar-yield_expression)
+- [iterator - What does the "yield" keyword do in Python? - Stack Overflow](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python?page=1&tab=scoredesc#tab-top)
+- [python生成器-CSDN博客](https://blog.csdn.net/weixin_33751566/article/details/92288708)

@@ -126,6 +126,6 @@ teredo.trex.fi
 
 ## 参考
 
-[^1]: [微软游戏无法正常加入在线游戏的解决教程](https://www.qiyou.cn/games/758.html)
+- [微软游戏无法正常加入在线游戏的解决教程](https://www.qiyou.cn/games/758.html)
 
-[^2]: [极限竞速：地平线 Teredo不合格解决方案](https://51huanqi.cn/极限竞速：地平线-teredo不合格解决方案/)
+- [极限竞速：地平线 Teredo不合格解决方案](https://51huanqi.cn/极限竞速：地平线-teredo不合格解决方案/)

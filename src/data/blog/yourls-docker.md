@@ -119,7 +119,7 @@ docker compose restart
 
 ## FAQ
 
-### 页面显示不正常[^1]
+### 页面显示不正常
 
 在上述方法安装前台页面之后，可能会出现显示页面显示不正常的情况，对`/root/yourls/yourls_data/frontend/header.php`进行修改，删除下图第15行中的`<?php echo $YOURLS_SITE ?>` 后重启程序即可。
 
@@ -133,14 +133,14 @@ docker compose restart
 
 ## References
 
-[^1]: [Frontend page isn't displayed correctly · Issue #130 · Flynntes/Sleeky](https://github.com/Flynntes/Sleeky/issues/130#issuecomment-1824605122)
+- [Frontend page isn't displayed correctly · Issue #130 · Flynntes/Sleeky](https://github.com/Flynntes/Sleeky/issues/130#issuecomment-1824605122)
 
-[^2]: [Broke Login · Issue #127 · Flynntes/Sleeky (github.com)](https://github.com/Flynntes/Sleeky/issues/127)
+- [Broke Login · Issue #127 · Flynntes/Sleeky (github.com)](https://github.com/Flynntes/Sleeky/issues/127)
 
-[^3]: [YOURLS/awesome: 🎉 A curated list of awesome things related to YOURLS](https://github.com/YOURLS/awesome)
+- [YOURLS/awesome: 🎉 A curated list of awesome things related to YOURLS](https://github.com/YOURLS/awesome)
 
-[^4]: [YOURLS/YOURLS: 🔗 The de facto standard self hosted URL shortener in PHP](https://github.com/YOURLS/YOURLS)
+- [YOURLS/YOURLS: 🔗 The de facto standard self hosted URL shortener in PHP](https://github.com/YOURLS/YOURLS)
 
-[^5]: [【好玩儿的Docker项目】10分钟搭建一个自己的短链接服务](https://blog.laoda.de/archives/docker-compose-install-yourls)
+- [【好玩儿的Docker项目】10分钟搭建一个自己的短链接服务](https://blog.laoda.de/archives/docker-compose-install-yourls)
 
-[^6]: [yourls - Official Image | Docker Hub](https://hub.docker.com/_/yourls?tab=description)
+- [yourls - Official Image | Docker Hub](https://hub.docker.com/_/yourls?tab=description)

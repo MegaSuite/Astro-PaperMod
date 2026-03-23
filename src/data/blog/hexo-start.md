@@ -65,14 +65,14 @@ $ hexo n [layout] <title>
 
 ```bash
 $ npx hexo n [layout] <title>
-# 作为一个程序猿，你该懂得[]里的是可选参数（我一开始也不懂），layout详见[^1]的Hexo官方注解
+# 作为一个程序猿，你该懂得[]里的是可选参数（我一开始也不懂），layout详见Hexo官方注解
 ```
 
 现在，你已经拥有第一篇博客文章（的毛坯）了！
 
 具体语法可以使用Markdown语法，并参照{% post_link Hexo写作的基本语法 %}这篇文章
 
-### 配置Hexo-Fluid[^1]
+### 配置Hexo-Fluid
 
 {% note primary %}
 
@@ -109,7 +109,7 @@ about:
     # - { class: 'iconfont icon-wechat-fill', qrcode: '/img/favicon.webp' }
 ```
 
-## 通过Github Actions使用Github Pages进行半自动化部署[^2]
+## 通过Github Actions使用Github Pages进行半自动化部署
 
 ### 使用 GitHub Action
 
@@ -198,7 +198,7 @@ jobs:
 
 > 注：若从腾讯*dnspod*购得域名，免费版的解析条数只有两条，此时，`@`型`A`主机记录只填写任意一条即可，`www`型`CNAME`记录不可省，需要填写。
 
-## 使用阿里云OSS作为图床[^3]
+## 使用阿里云OSS作为图床
 
 <p class='note note-success'>（可选Github仓库结合jsdelivr，但国内不稳定，不推荐）</p>
 
@@ -436,7 +436,7 @@ feed:
 
 ![feed](https://img.fooa.de/file/image/202311132057955.webp)
 
-部分参数解释，其它参数参见作者页面[^9]
+部分参数解释，其它参数参见作者页面
 
 ```yaml
 enable：开启与否
@@ -463,22 +463,22 @@ order_by：排序依据，默认为`-date`，按日期排序
 
 ## 参考
 
-[^1]: [Hexo Theme Fluid](https://fluid-dev.github.io/hexo-fluid-docs/guide/)
+- [Hexo Theme Fluid](https://fluid-dev.github.io/hexo-fluid-docs/guide/)
 
-[^2]: [公众号：不止dotNET](https://mp.weixin.qq.com/s/jVVTHuu22MSN8dnCGQzJjQ)
+- [公众号：不止dotNET](https://mp.weixin.qq.com/s/jVVTHuu22MSN8dnCGQzJjQ)
 
-[^3]: [Typora+PicGo+阿里云OSS搭建博客图床](https://developer.aliyun.com/article/1246053?spm=a2c6h.12873639.article-detail.39.44c5d5c5uyWEZ6&scm=20140722.ID_community@@article@@1246053._.ID_community@@article@@1246053-OR_rec-V_1-RL_community@@article@@1231108)
+- [Typora+PicGo+阿里云OSS搭建博客图床](https://developer.aliyun.com/article/1246053?spm=a2c6h.12873639.article-detail.39.44c5d5c5uyWEZ6&scm=20140722.ID_community@@article@@1246053._.ID_community@@article@@1246053-OR_rec-V_1-RL_community@@article@@1231108)
 
-[^4]: [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-[^5]: [chawyehsu/lxgw-wenkai-webfont](https://github.com/chawyehsu/lxgw-wenkai-webfont)
+- [chawyehsu/lxgw-wenkai-webfont](https://github.com/chawyehsu/lxgw-wenkai-webfont)
 
-[^6]: [Hexo字体全局更改为霞鹜文楷体](https://penghh.fun/2023/05/07/2023-5-7-hexo_blog_font/)
+- [Hexo字体全局更改为霞鹜文楷体](https://penghh.fun/2023/05/07/2023-5-7-hexo_blog_font/)
 
-[^7]: [一言开发者中心](https://developer.hitokoto.cn/)
+- [一言开发者中心](https://developer.hitokoto.cn/)
 
-[^8]: [往事随风](https://alec-97.github.io/posts/151223124/)
+- [往事随风](https://alec-97.github.io/posts/151223124/)
 
-[^9]: [hexojs/hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed)
+- [hexojs/hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed)
 
-[^10]: [你可以用 RSS 订阅我的博客了](https://penghh.fun/2021/05/18/2021-5-18-blogupdate/)
+- [你可以用 RSS 订阅我的博客了](https://penghh.fun/2021/05/18/2021-5-18-blogupdate/)

@@ -21,7 +21,7 @@ $ npx hexo n [layout] <title>
 
 现在，你已经拥有第一篇博客文章（的毛坯）了！
 
-# Hexo本身支持的特色语法[^1]
+# Hexo本身支持的特色语法
 
 ## 便签
 
@@ -184,7 +184,7 @@ code
 
 <p class='note note-success'>部分网络环境下，Gist无法正常加载</p>
 
-## iframe[^2]
+## iframe
 
 在文章中插入 iframe。
 
@@ -249,6 +249,6 @@ categories:
 
 # 参考
 
-[^1]: [Hexo](https://hexo.io/zh-cn/docs/writing)
+- [Hexo](https://hexo.io/zh-cn/docs/writing)
 
-[^2]: [Hexo Theme Fluid](https://fluid-dev.com/posts/fluid-write/)
+- [Hexo Theme Fluid](https://fluid-dev.com/posts/fluid-write/)

@@ -64,11 +64,11 @@ def div_by_primes_under_no_lambda(n):
 
 ## Analysis:
 
-> 核心理论依据：如果一个数不能整除以比它小的任何素数，那么这个数就是素数。[^1]
+> 核心理论依据：如果一个数不能整除以比它小的任何素数，那么这个数就是素数。
 
 要求`checker`函数实现的功能就是判断`k`是否能整除以任何一个从`2`到`n`的素数，当然也就能同时实现判断一个数是否是素数。
 
-根据一般想法，我们可以在`div_by_primes_under_no_lambda`函数里面定义一个`normal_checker`函数，使它对`i`从`2`到`n`逐个进行判断：满足`i`是素数且`x % i == 0`即可。示例如下：[^2]
+根据一般想法，我们可以在`div_by_primes_under_no_lambda`函数里面定义一个`normal_checker`函数，使它对`i`从`2`到`n`逐个进行判断：满足`i`是素数且`x % i == 0`即可。示例如下：
 
 ```python
 def is_prime(x):
@@ -129,6 +129,6 @@ def div_by_primes_under_no_lambda(n):
 
 ## Reference:
 
-[^1]: [5种你不知道的素数的判断方法](https://zhuanlan.zhihu.com/p/104314640)
+- [5种你不知道的素数的判断方法](https://zhuanlan.zhihu.com/p/104314640)
 
-[^2]: [I Heard You Liked Functions... (CS61A作业笔记) ](https://zhuanlan.zhihu.com/p/621748545)
+- [I Heard You Liked Functions... (CS61A作业笔记) ](https://zhuanlan.zhihu.com/p/621748545)
