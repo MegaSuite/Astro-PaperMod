@@ -11,6 +11,12 @@ AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro blog them
 
 Read [the blog posts](https://astro-paper.pages.dev/posts/) or check [the README Documentation Section](#-documentation) for more info.
 
+## 🆕 New Features in Astro PaperMod
+  - [x] easy to add new blog posts using "new" command, like what hexo blog does.
+  - [ ] automatically generate modDatetime after editing a post.
+  - [ ] better Table of Contents (TOC).
+  - [ ] when creating a new post, created_time and modified_time will be generated automatically, but how to update modified_time when editing a post? maybe we can use git commit time to update modified_time, but it may not be accurate, so we need to find a better solution.
+
 ## 🔥 Features
 
 - [x] type-safe markdown
