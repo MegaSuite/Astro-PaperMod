@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+node scripts/update-mod-datetime.mjs
