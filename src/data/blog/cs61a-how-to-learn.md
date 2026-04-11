@@ -1,7 +1,7 @@
 ---
 title: 怎样系统地学习CS61A——以CS61A（Fa22）为例
 pubDatetime: 2023-07-14T17:11:53+08:00
-modDatetime: 2026-04-11T17:01:54.000+08:00
+modDatetime: 2026-04-11T17:19:04+08:00
 author: Konrad
 featured: false
 draft: false

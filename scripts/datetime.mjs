@@ -22,5 +22,5 @@ export function getCurrentIsoDatetimeWithOffset() {
   const second = pad(now.getSeconds());
   const timezone = getTimezoneOffsetString(now);
 
-  return `${year}-${month}-${date}T${hour}:${minute}:${second}.000${timezone}`;
+  return `${year}-${month}-${date}T${hour}:${minute}:${second}${timezone}`;
 }
