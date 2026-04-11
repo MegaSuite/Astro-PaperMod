@@ -1,11 +1,15 @@
 ---
 title: 使用proxychains4进行代理测试
-description: 使用proxychain进行简单的代理测试
-math: false
 pubDatetime: 2024-12-18T15:19:35+08:00
+modDatetime: 2026-04-11T15:49:16+08:00
+author: Konrad
+featured: false
+draft: false
+math: false
 tags:
   - Proxy
   - Server
+description: 使用proxychain进行简单的代理测试
 ---
 
 # 使用ProxyChain进行代理测试

@@ -1,9 +1,13 @@
 ---
 title: 如何给你的大学官网整一个「奇怪」的域名
-description: 你也想要中国原神大学吗？
 pubDatetime: 2023-08-17T23:21:25+08:00
+modDatetime: 2026-04-11T15:49:16+08:00
+author: Konrad
+featured: false
+draft: false
 tags:
   - Daily
+description: 你也想要中国原神大学吗？
 ---
 
 # 如何给你的大学官网整一个⌈奇怪⌋的域名

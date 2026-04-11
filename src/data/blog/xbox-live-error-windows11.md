@@ -1,10 +1,14 @@
 ---
 title: 在Win11上，XBOX Live无法连接的解决方案
-description: 畅玩地平线4的解决方案（bushi
 pubDatetime: 2023-09-19T15:58:44+08:00
+modDatetime: 2026-04-11T15:49:16+08:00
+author: Konrad
+featured: false
+draft: false
 tags:
   - Game
   - XBOX
+description: 畅玩地平线4的解决方案（bushi
 ---
 
 # 在Windows11上，XBOX Live 服务器无法连接的解决方案

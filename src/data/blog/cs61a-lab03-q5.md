@@ -1,9 +1,13 @@
 ---
 title: CS61A-lab03_Q5
-description: Short analysis about div_by_primes_under in lab03
 pubDatetime: 2023-07-26T15:51:39+08:00
+modDatetime: 2026-04-11T15:49:16+08:00
+author: Konrad
+featured: false
+draft: false
 tags:
   - CS61A
+description: Short analysis about div_by_primes_under in lab03
 ---
 
 ## Q5: It's Always a Good Prime

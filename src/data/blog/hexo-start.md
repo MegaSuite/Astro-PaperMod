@@ -1,9 +1,13 @@
 ---
 title: 从Hexo开启第一篇博客
-description: Hexo新手踩坑教程（bushi
 pubDatetime: 2023-07-03T09:58:42+08:00
+modDatetime: 2026-04-11T15:49:16+08:00
+author: Konrad
+featured: false
+draft: false
 tags:
   - Hexo
+description: Hexo新手踩坑教程（bushi
 ---
 
 ## 前言

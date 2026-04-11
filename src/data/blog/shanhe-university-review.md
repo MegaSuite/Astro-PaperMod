@@ -1,9 +1,13 @@
 ---
 title: 虚拟的山河大学与真实的教育困境
-description: 本文转载自虎嗅年轻内容公众号“那個NG”（ID：huxiu4youth)。
 pubDatetime: 2023-07-16T20:35:40+08:00
+modDatetime: 2026-04-11T15:49:16+08:00
+author: Konrad
+featured: false
+draft: false
 tags:
   - Daily
+description: 本文转载自虎嗅年轻内容公众号“那個NG”（ID：huxiu4youth)。
 ---
 
 <p class='note note-success'>本文转载自虎嗅年轻内容公众号“那個NG”（ID：huxiu4youth)。</p>

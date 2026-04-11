@@ -1,9 +1,13 @@
 ---
 title: 怎样系统地学习CS61A——以CS61A（Fa22）为例
-description: The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
 pubDatetime: 2023-07-14T17:11:53+08:00
+modDatetime: 2026-04-11T15:49:16+08:00
+author: Konrad
+featured: false
+draft: false
 tags:
   - CS61A
+description: The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
 ---
 
 ## Overview

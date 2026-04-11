@@ -1,9 +1,13 @@
 ---
 title: CS61A-Reference
-description: Composing Programs by John DeNero, based on the textbook Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman.
 pubDatetime: 2023-07-19T17:18:41+08:00
+modDatetime: 2026-04-11T15:49:16+08:00
+author: Konrad
+featured: false
+draft: false
 tags:
   - CS61A
+description: Composing Programs by John DeNero, based on the textbook Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman.
 ---
 
 {% note success %}

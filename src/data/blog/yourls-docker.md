@@ -1,10 +1,14 @@
 ---
 title: 使用YOURLS Docker版，搭建短链接服务
-description: 使用YOURLS Docker版，搭建短链接服务
-math: false
 pubDatetime: 2024-07-12T14:57:06+08:00
+modDatetime: 2026-04-11T15:49:16+08:00
+author: Konrad
+featured: false
+draft: false
+math: false
 tags:
   - Docker
+description: 使用YOURLS Docker版，搭建短链接服务
 ---
 
 # 使用YOURLS Docker版，搭建短链接服务

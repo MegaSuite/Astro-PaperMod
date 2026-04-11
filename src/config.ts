@@ -1,7 +1,7 @@
 export const SITE = {
-  website: "https://www.foolco.de", // replace this with your deployed domain
+  website: "https://www.mothcode.com", // replace this with your deployed domain
   author: "Konrad",
-  profile: "https://mothcode.com/",
+  profile: "https://www.mothcode.com/",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "Astro-PaperMod",
   ogImage: "astropaper-og.jpg",
@@ -11,11 +11,6 @@ export const SITE = {
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   showBackButton: true, // show back button in post detail
-  editPost: {
-    enabled: true,
-    text: "Edit page",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
-  },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
   lang: "en", // html lang code. Set this empty and default will be "en"

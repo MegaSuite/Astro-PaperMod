@@ -1,10 +1,14 @@
 ---
 title: 【数论】欧拉筛法-埃拉托斯特尼筛法
-description: 欧拉筛法的实际应用
 pubDatetime: 2023-09-19T20:13:08+08:00
+modDatetime: 2026-04-11T15:49:16+08:00
+author: Konrad
+featured: false
+draft: false
 math: true
 tags:
   - Algorithm
+description: 欧拉筛法的实际应用
 ---
 
 # 欧拉筛法

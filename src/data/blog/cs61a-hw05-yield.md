@@ -1,9 +1,13 @@
 ---
 title: CS61A-hw05_Yield关键词的应用
-description: how to use 'yield' keyword in Python
 pubDatetime: 2023-08-01T17:48:36+08:00
+modDatetime: 2026-04-11T15:49:16+08:00
+author: Konrad
+featured: false
+draft: false
 tags:
   - CS61A
+description: how to use 'yield' keyword in Python
 ---
 
 # CS61A-hw05_Yield关键词的应用

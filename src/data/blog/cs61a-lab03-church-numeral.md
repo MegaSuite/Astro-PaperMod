@@ -1,9 +1,13 @@
 ---
 title: CS61A-lab03-Q6_ChurchNumeral丘奇数
-description: CS61A-lab03-Q6-ChurchNumerals
 pubDatetime: 2023-07-09T15:09:34+08:00
+modDatetime: 2026-04-11T15:49:16+08:00
+author: Konrad
+featured: false
+draft: false
 tags:
   - CS61A
+description: CS61A-lab03-Q6-ChurchNumerals
 ---
 
 ## Q6: Church Numerals

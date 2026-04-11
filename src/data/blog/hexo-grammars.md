@@ -1,9 +1,13 @@
 ---
 title: Hexo写作的基本语法
-description: Markdown为主，部分特色语法为例
 pubDatetime: 2023-07-03T10:04:09+08:00
+modDatetime: 2026-04-11T15:49:16+08:00
+author: Konrad
+featured: false
+draft: false
 tags:
   - Hexo
+description: Markdown为主，部分特色语法为例
 ---
 
 最最最开始，当然是建立一个`.md`文档啦，使用以下命令：
